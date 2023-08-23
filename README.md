@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on python projects<br>👯 I’m looking for remote jobs<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning full stack web development<br>⚡ Fun fact - I am in love with learning new tech
+🔭  working on python projects<br>🌱 I’m currently learning full stack web development<br>⚡ Fun fact - I am in love with learning new tech
 
 
 ## 🌐 Socials:
